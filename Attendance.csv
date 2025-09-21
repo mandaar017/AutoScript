@@ -1,0 +1,56 @@
+S.NO,COURSE CODE,COURSE NAME,FACULTY NAME,TOTAL,NA,PRESENT,ABSENT,CONDONATION,% PER.
+1,23CS7PCNWP,Network Programming,Dr.Nandhini Vineeth,0,0,0,0,--,0%
+2,23CS7PCMNE,Management and Entrepreneurship,Radhika A D,9,0,4,5,--,44%
+3,23CS7PENLP,Natural Language Processing,Sneha S Bagalkot,0,0,0,0,--,0%
+4,23CY7OEECM,Energy Crisis Management,Dr. Malini .S,0,0,0,0,--,0%
+5,23CS7PWPP2,Major Project Phase-2 [PRACTICAL],Dr. Shashikala,0,0,0,0,--,0%
+6,25MA7HSIKL,Indian Knowledge Systems,Deepak B C,1,0,0,1,--,0%
+S.NO,COURSE CODE,COURSE NAME,FACULTY NAME,TOTAL,NA,PRESENT,ABSENT,CONDONATION,% PER.
+1,23CS6PCCCT,Cloud Computing,Spoorthi D M,40,0,39,1,--,98%
+2,23CS6PCBDA,Big Data Analytics,Rekha G S,40,0,34,6,--,85%
+3,23CS6PCMAL,Machine Learning,Dr. Umadevi V,44,0,41,3,--,93%
+4,23CS6PCMAL,Machine Learning [PRACTICAL],Sheetal V A,12,0,12,0,--,100%
+5,23CS6PCBDA,Big Data Analytics [PRACTICAL],Rajeshwari Madli,11,0,10,1,--,91%
+6,23CS6PEADS,Advanced Data Structures,Dr. Namratha M,40,0,35,5,--,88%
+7,23EE6OE1SW,Solar And Wind Energy Technologies,Dr.Champa V,30,0,23,7,CONDONED,77%
+8,23CS6PWPP1,Major Project Phase-1 [PRACTICAL],Dr. Shashikala,0,0,0,0,--,0%
+9,23NCMC6PE4,Physical Education-4,Nagaraja C,0,0,0,0,--,0%
+10,23CS6AERML,Research Methodology And Ipr,Prof.Swathi Sridharan,40,0,36,4,--,90%
+S.NO,COURSE CODE,COURSE NAME,FACULTY NAME,TOTAL,NA,PRESENT,ABSENT,CONDONATION,% PER.
+1,23CS5PCOOM,Object Oriented Modeling,Sowmya T,25,0,23,2,--,92%
+2,23CS5PCOOM,Object Oriented Modeling [PRACTICAL],Sowmya T,12,0,12,0,--,100%
+3,23CS5PCDEV,Data Exploration And Visualization,Dr. K. Panimozhi,40,0,37,3,--,93%
+4,23CS5PCAIN,Artificial Intelligence,Rashmi H,40,0,34,6,--,85%
+5,23CS5PCAIN,Artificial Intelligence [PRACTICAL],Rashmi H,10,0,10,0,--,100%
+6,23CS5PCCON,Computer Networks,Dr. Shashikala,46,0,37,9,CONDONED,80%
+7,23CS5PCCON,Computer Networks [PRACTICAL],Dr. Shashikala,10,0,9,1,--,90%
+8,23CS5PEAAM,Advanced Algorithms,Prameetha Pai,40,0,35,5,--,88%
+9,23CS5PWMIP,Mini Project [PRACTICAL],Sonika Sharma D,9,0,8,1,--,89%
+10,23NCMC5PE3,Physical Education-3,Shivakumaraswamy G V,0,0,0,0,--,0%
+11,23CS5BSBIS,Bio Inspired Systems [PRACTICAL],Prof.Swathi Sridharan,10,0,8,2,CONDONED,80%
+12,23CS5AECCO,Competitive Coding [PRACTICAL],RAMYA K M,13,0,12,1,--,92%
+13,23CV5HSEVS,Environmental Studies,Dr. Sainath K,7,0,7,0,--,100%
+S.NO,COURSE CODE,COURSE NAME,FACULTY NAME,TOTAL,NA,PRESENT,ABSENT,CONDONATION,% PER.
+1,23CS4PCOPS,Operating Systems,Sonika Sharma D,40,0,36,4,--,90%
+2,23CS4PCTFC,Theoretical Foundations of Computations,Shravya AR,40,0,38,2,--,95%
+3,23CS4PCSED,Software Engineering,RAMYA K M,40,0,34,6,--,85%
+4,23MA4BSLAO,Linear Algebra And Optimization,Dr. Shekar M,40,0,34,6,--,85%
+5,23CS4PCADA,Analysis and Design of Algorithms,Dr. Kayarvizhy N,40,0,34,6,--,85%
+6,23CS4PCADA,Analysis and Design of Algorithms [PRACTICAL],Basavaraj Jakkali,11,0,11,0,--,100%
+7,23CS4PCOPS,Operating Systems [PRACTICAL],Basavaraj Jakkali,11,0,11,0,--,100%
+8,23NCMC4PE2,Physical Education-2,Shivakumaraswamy G V,0,0,0,0,--,0%
+9,23CS4ESCRP,Cryptography,Prameetha Pai,40,0,34,6,--,85%
+10,22MA4AEUHV,Universal Human Values,Sunayana S,10,0,9,1,--,90%
+11,23CS4AEMAD,Mobile Application Development [PRACTICAL],Ms. Ambuja K,10,0,8,2,CONDONED,80%
+S.NO,COURSE CODE,COURSE NAME,FACULTY NAME,TOTAL,NA,PRESENT,ABSENT,CONDONATION,% PER.
+1,23CS3PCUSP,Unix Shell Programming,Sunayana S,0,0,0,0,--,0%
+2,23CS3PCOOJ,Object Oriented Java Programming,Shravya AR,0,0,0,0,--,0%
+3,23CS3PCLOD,Logic Design,Sheetal V A,0,0,0,0,--,0%
+4,23CS3PCDST,Data Structures,M Lakshmi Neelima,0,0,0,0,--,0%
+5,23CS3PCDBM,Database Management Systems,Rekha G S,0,0,0,0,--,0%
+6,23MA3BSSDM,STATISTICS AND DISCRETE MATHEMATICS,Dr Chaitra V.,0,0,0,0,--,0%
+7,23NCMC3PE1,Physical Education-1,Shivakumaraswamy G V,0,0,0,0,--,0%
+8,23CS3ESCOA,Computer Organization and Architecture,Sneha S Bagalkot,0,0,0,0,--,0%
+9,23CS3AEFWD,Full Stack Web Development,Sandhya A Kulkarni,0,0,0,0,--,0%
+S.NO,COURSE CODE,COURSE NAME,FACULTY NAME,TOTAL,NA,PRESENT,ABSENT,CONDONATION,% PER.
+S.NO,COURSE CODE,COURSE NAME,FACULTY NAME,TOTAL,NA,PRESENT,ABSENT,CONDONATION,% PER.
